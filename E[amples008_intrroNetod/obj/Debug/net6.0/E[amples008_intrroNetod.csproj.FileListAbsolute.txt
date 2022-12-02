@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Рабочий стол\Work C#\Examples\E[amples008_intrroNetod\bin\Debug\net6.0\E[amples008_intrroNetod.exe
+C:\Users\User\OneDrive\Рабочий стол\Work C#\Examples\E[amples008_intrroNetod\bin\Debug\net6.0\E[amples008_intrroNetod.deps.json
+C:\Users\User\OneDrive\Рабочий стол\Work C#\Examples\E[amples008_intrroNetod\bin\Debug\net6.0\E[amples008_intrroNetod.runtimeconfig.json
+C:\Users\User\OneDrive\Рабочий стол\Work C#\Examples\E[amples008_intrroNetod\bin\Debug\net6.0\E[amples008_intrroNetod.dll
+C:\Users\User\OneDrive\Рабочий стол\Work C#\Examples\E[amples008_intrroNetod\bin\Debug\net6.0\E[amples008_intrroNetod.pdb
+C:\Users\User\OneDrive\Рабочий стол\Work C#\Examples\E[amples008_intrroNetod\obj\Debug\net6.0\E[amples008_intrroNetod.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Рабочий стол\Work C#\Examples\E[amples008_intrroNetod\obj\Debug\net6.0\E[amples008_intrroNetod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Рабочий стол\Work C#\Examples\E[amples008_intrroNetod\obj\Debug\net6.0\E[amples008_intrroNetod.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\Work C#\Examples\E[amples008_intrroNetod\obj\Debug\net6.0\E[amples008_intrroNetod.AssemblyInfo.cs
+C:\Users\User\OneDrive\Рабочий стол\Work C#\Examples\E[amples008_intrroNetod\obj\Debug\net6.0\E[amples008_intrroNetod.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\Work C#\Examples\E[amples008_intrroNetod\obj\Debug\net6.0\E[amples008_intrroNetod.dll
+C:\Users\User\OneDrive\Рабочий стол\Work C#\Examples\E[amples008_intrroNetod\obj\Debug\net6.0\refint\E[amples008_intrroNetod.dll
+C:\Users\User\OneDrive\Рабочий стол\Work C#\Examples\E[amples008_intrroNetod\obj\Debug\net6.0\E[amples008_intrroNetod.pdb
+C:\Users\User\OneDrive\Рабочий стол\Work C#\Examples\E[amples008_intrroNetod\obj\Debug\net6.0\E[amples008_intrroNetod.genruntimeconfig.cache
+C:\Users\User\OneDrive\Рабочий стол\Work C#\Examples\E[amples008_intrroNetod\obj\Debug\net6.0\ref\E[amples008_intrroNetod.dll
