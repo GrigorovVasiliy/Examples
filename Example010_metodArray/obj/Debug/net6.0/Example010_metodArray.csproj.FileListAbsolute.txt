@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Рабочий стол\Work C#\Examples\Example010_metodArray\bin\Debug\net6.0\Example010_metodArray.exe
+C:\Users\User\OneDrive\Рабочий стол\Work C#\Examples\Example010_metodArray\bin\Debug\net6.0\Example010_metodArray.deps.json
+C:\Users\User\OneDrive\Рабочий стол\Work C#\Examples\Example010_metodArray\bin\Debug\net6.0\Example010_metodArray.runtimeconfig.json
+C:\Users\User\OneDrive\Рабочий стол\Work C#\Examples\Example010_metodArray\bin\Debug\net6.0\Example010_metodArray.dll
+C:\Users\User\OneDrive\Рабочий стол\Work C#\Examples\Example010_metodArray\bin\Debug\net6.0\Example010_metodArray.pdb
+C:\Users\User\OneDrive\Рабочий стол\Work C#\Examples\Example010_metodArray\obj\Debug\net6.0\Example010_metodArray.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Рабочий стол\Work C#\Examples\Example010_metodArray\obj\Debug\net6.0\Example010_metodArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Рабочий стол\Work C#\Examples\Example010_metodArray\obj\Debug\net6.0\Example010_metodArray.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\Work C#\Examples\Example010_metodArray\obj\Debug\net6.0\Example010_metodArray.AssemblyInfo.cs
+C:\Users\User\OneDrive\Рабочий стол\Work C#\Examples\Example010_metodArray\obj\Debug\net6.0\Example010_metodArray.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\Work C#\Examples\Example010_metodArray\obj\Debug\net6.0\Example010_metodArray.dll
+C:\Users\User\OneDrive\Рабочий стол\Work C#\Examples\Example010_metodArray\obj\Debug\net6.0\refint\Example010_metodArray.dll
+C:\Users\User\OneDrive\Рабочий стол\Work C#\Examples\Example010_metodArray\obj\Debug\net6.0\Example010_metodArray.pdb
+C:\Users\User\OneDrive\Рабочий стол\Work C#\Examples\Example010_metodArray\obj\Debug\net6.0\Example010_metodArray.genruntimeconfig.cache
+C:\Users\User\OneDrive\Рабочий стол\Work C#\Examples\Example010_metodArray\obj\Debug\net6.0\ref\Example010_metodArray.dll
