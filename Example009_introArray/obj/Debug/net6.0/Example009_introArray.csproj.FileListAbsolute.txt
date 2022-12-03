@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Рабочий стол\Work C#\Examples\Example009_introArray\bin\Debug\net6.0\Example009_introArray.exe
+C:\Users\User\OneDrive\Рабочий стол\Work C#\Examples\Example009_introArray\bin\Debug\net6.0\Example009_introArray.deps.json
+C:\Users\User\OneDrive\Рабочий стол\Work C#\Examples\Example009_introArray\bin\Debug\net6.0\Example009_introArray.runtimeconfig.json
+C:\Users\User\OneDrive\Рабочий стол\Work C#\Examples\Example009_introArray\bin\Debug\net6.0\Example009_introArray.dll
+C:\Users\User\OneDrive\Рабочий стол\Work C#\Examples\Example009_introArray\bin\Debug\net6.0\Example009_introArray.pdb
+C:\Users\User\OneDrive\Рабочий стол\Work C#\Examples\Example009_introArray\obj\Debug\net6.0\Example009_introArray.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Рабочий стол\Work C#\Examples\Example009_introArray\obj\Debug\net6.0\Example009_introArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Рабочий стол\Work C#\Examples\Example009_introArray\obj\Debug\net6.0\Example009_introArray.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\Work C#\Examples\Example009_introArray\obj\Debug\net6.0\Example009_introArray.AssemblyInfo.cs
+C:\Users\User\OneDrive\Рабочий стол\Work C#\Examples\Example009_introArray\obj\Debug\net6.0\Example009_introArray.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\Work C#\Examples\Example009_introArray\obj\Debug\net6.0\Example009_introArray.dll
+C:\Users\User\OneDrive\Рабочий стол\Work C#\Examples\Example009_introArray\obj\Debug\net6.0\refint\Example009_introArray.dll
+C:\Users\User\OneDrive\Рабочий стол\Work C#\Examples\Example009_introArray\obj\Debug\net6.0\Example009_introArray.pdb
+C:\Users\User\OneDrive\Рабочий стол\Work C#\Examples\Example009_introArray\obj\Debug\net6.0\Example009_introArray.genruntimeconfig.cache
+C:\Users\User\OneDrive\Рабочий стол\Work C#\Examples\Example009_introArray\obj\Debug\net6.0\ref\Example009_introArray.dll
